@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{7a91caaf-eb9d-4ee6-be45-3299145b0894}">
+        <property name="assetPath">
+            <value>Saloon.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>30.499024943310658</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{c550b457-afe6-4464-bd30-0aa9ca7fbd56}</destination>
+        </relationship>
+    </object>
+</objects>

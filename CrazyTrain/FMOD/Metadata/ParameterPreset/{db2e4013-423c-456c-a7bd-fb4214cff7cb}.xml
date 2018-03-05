@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{db2e4013-423c-456c-a7bd-fb4214cff7cb}">
+        <property name="name">
+            <value>ChuuActive</value>
+        </property>
+        <relationship name="folder">
+            <destination>{2bf6b380-9eed-49f0-93da-d9062f429db2}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{ee174798-1ea9-4604-a801-62304c123bd6}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{ee174798-1ea9-4604-a801-62304c123bd6}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
